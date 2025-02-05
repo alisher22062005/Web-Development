@@ -1,0 +1,92 @@
+.ToDoList{
+    background-color: black;
+    color:white ;
+    width:70%;
+    height:40px;
+    margin:auto;
+    display: flex;
+    align-items: center;
+
+}
+
+#text{
+    padding-left:50px;
+    font-weight: bold;
+
+}
+
+#text-ToDo{
+    font-size: 30px;
+    margin-left:370px;
+    margin-top:50px;
+}
+
+#New-Task{
+     width:40%;
+    height: 30px;
+    /* margin:auto; */ 
+    border-radius: 4px;
+    border-color:blue;
+    border: 3px solid grey;
+}
+
+
+
+.blocks{
+    display: flex;
+    width:100%;
+    height: 30px;
+    justify-content:center;
+     gap:10px
+} 
+
+#notes{
+   
+    margin-left:350px;
+    margin-top:50px;
+    width:50%;
+    /* background-color: red;  */
+} 
+
+
+li{
+   
+    height:50px;
+    display:flex;
+    padding-left:100px;
+    align-items: center;
+    border: 1px solid aqua;
+    border-radius: 2px;
+
+}
+
+li::before{
+    position:absolute;
+    left:420px;
+    content:"\2610";
+    font-size: 30px;
+    /* background-image: ""; */
+   
+}
+ul li span{
+    position: absolute;
+    margin-left:520px;
+    font-size: 20px;
+    
+}
+ ul li.clicked{
+    text-decoration: line-through;
+}
+ul li.clicked::before{
+    content:"\2611";
+}
+
+ul li span:hover{
+   background: #edeef0;
+}
+
+input{
+ padding-left:15px;   
+}
+
+
