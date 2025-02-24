@@ -31,7 +31,8 @@ export class AppComponent {
     {
       name: 'Apple Iphone 13',
       desription: 'Apple Iphone 13 128GB черный',
-      rating: '4.5',
+      rating: 'assets/Снимок экрана 2025-02-24 123252.png',
+
       photo: 'assets/Images/phone.1.jpeg',
       url:"https://kaspi.kz/shop/p/apple-iphone-13-128gb-chernyi-102298404/?c=750000000"
 
