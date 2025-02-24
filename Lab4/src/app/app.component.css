@@ -1,0 +1,22 @@
+
+
+  .card-list {
+    /* Create a responsive grid that adapts to screen size */
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;            /* Space between the cards */
+    padding: 1rem;        /* Space around the grid */
+    width:70%;
+    height: 70%;
+    margin-left:300px;
+  }
+ 
+
+  .headline{
+    padding:40px;
+
+  }
+
+  .kaspi-location{
+    margin-left:70px;
+  }
