@@ -1,0 +1,55 @@
+.product-photo {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 30px 30px 0 0;
+  
+}
+
+.one-product-block {
+background: var(--accent-color);
+border-radius: 30px;
+padding-bottom: 30px;
+}
+
+
+.card-img-top{
+width:200px;
+height: 300px;
+position: relative;
+left: 20px;;
+
+}
+
+.rating{
+width: 200px;
+}
+
+
+
+.card-list {
+    /* Create a responsive grid that adapts to screen size */
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;            /* Space between the cards */
+    padding: 1rem;        /* Space around the grid */
+    width:70%;
+    height: 70%;
+    margin-left:300px;
+    margin-top:100px;
+  }
+ 
+
+  .headline{
+    padding:40px;
+
+  }
+
+  .kaspi-location{
+    margin-left:70px;
+  }
+
+  .form-select{
+    width:50%;
+    margin-left:400px;
+  }
