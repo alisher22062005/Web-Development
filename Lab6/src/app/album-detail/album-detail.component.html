@@ -1,0 +1,10 @@
+<!-- album-detail.component.html -->
+<div *ngIf="album">
+    <h2>Album Details</h2>
+    <p><strong>ID:</strong> {{ album.id }}</p>
+    <p><strong>Title:</strong> {{ album.title }}</p>
+
+   <p> <a [routerLink]="['/albums',album.id,'photo']">Photos</a></p> 
+    <button (click)="goBack()">Return to Albums</button>
+  </div>
+  

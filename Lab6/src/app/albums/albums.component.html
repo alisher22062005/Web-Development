@@ -1,0 +1,12 @@
+<h2>Albums</h2>
+<ul>
+  <li *ngFor="let album of albums">
+    <!-- Clicking the album title navigates to the detail page -->
+    <a [routerLink]="['/albums', album.id]">{{ album.title }}</a>
+
+    
+    <!-- Delete button calls a function to remove the album -->
+    <button (click)="deleteAlbum(album.id!)">Delete</button>
+  </li>
+</ul>
+

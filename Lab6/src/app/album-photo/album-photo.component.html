@@ -1,0 +1,16 @@
+<!-- <p>album-photo works!</p> -->
+
+
+
+    <div *ngFor="let photo of photos">
+        <p>albumID: {{ photo.albumId }}</p>
+
+        <p>ID: {{ photo.id }}</p>
+        <p>Title: {{ photo.title }}</p>
+        <p>URL: {{ photo.url }}</p>
+        <p>Thumbnail: {{ photo.thumbnailUrl }}</p>
+      </div>
+      
+
+
+    <button (click)="goBack()">Return to Home</button>
