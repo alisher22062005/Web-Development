@@ -1,0 +1,207 @@
+[
+    {
+      "name": "Apple iphone 16",
+      "description": "Apple iphone 16 ro Max 256Gb черный",
+      "price": 23,
+      "count":0,
+      "is_active": true,
+      "category_name": "Smartphones"
+    },
+    {
+      "name": "Apple iphone 16",
+      "description": "Apple iphone 16 ro Max 255Gb серебристый",
+      "price": 23,
+      "count":0,
+      "is_active": true,
+      "category_name": "Smartphones"
+    },
+    {
+      "name": "Apple iphone 13",
+      "description": "Apple iphone 13 28Gb белый",
+      "count": 23,
+      "price":2344,
+      "is_active": true,
+      "category_name": "Smartphones"
+    },
+    {
+      "name": "Apple iphone 16",
+      "description": "Apple iphone 16 ro 256Gb серебристый",
+      "is_active": true,
+      "price": 23,
+      "count": 0,
+      "category_name": "Smartphones"
+    },
+    {
+      "name": "Apple iPhone 13",
+      "description": "Apple iPhone 13 28Gb зеленый",
+      "is_active": true,
+      "price": 23,
+      "count": 0,
+      "category_name": "Smartphones"
+    },
+    {
+      "name": "Samsung Galaxy A55",
+      "description": "Samsung Galaxy A55 5G 8ГБ/126ГБ темно-синий",
+      "count": 0,
+      "price": 23,
+     "is_active": true,
+      "category_name": "Smartphones"
+    },
+  
+
+  
+    {
+      "name": "Logitech G102",
+      "description": "Logitech G102 Lightsync черный",
+      "price": 3421,
+      "is_active": true,
+      "category_name":"Mouses",
+      "count": 0
+    },
+    {
+      "name": "X-Game XM-770OUB ",
+      "description": "X-Game XM-770OUB черный",
+      "is_active": true,
+      "price": 34344,
+      "count": 0,
+      "category_name":"Mouses"
+    },
+    {
+      "name": "AULA sc580 ",
+      "description": "AULA sc580 белый Essential 2021",
+      "count": 0,
+      "price": 3434,
+      "is_active": true,
+      "category_name":"Mouses"
+    },
+    {
+      "name": "Razer DeathAdder Essential 2021 ",
+      "description": "Razer DeathAdder Essential 2021 RZ01-03850100-R3M1 ",
+      "price": 2323,
+      "is_active": true,
+      "category_name":"Mouses",
+      "count": 0
+    },
+    {
+      "count": 0,
+      "name": "Bloody W95 Max Naraka ",
+      "description": "Bloody W95 Max Naraka белый",
+      "price": 34443,
+      "is_active": true,
+      "category_name":"Mouses"
+    },
+    {
+      "count": 0,
+      "name": "Logitech G304 Max Pro ",
+      "description": "Logitech G304 W96 черный 2021",
+      "price": 334,
+      "is_active": true,
+      "category_name":"Mouses"
+    },
+  
+
+  
+    {
+      "count": 0,
+      "name": "Apple AirPods Pro 2 ",
+      "description": "Apple AirPods Pro 2 with Type-C/Wireless Charging белый",
+      "price": 3356,
+      "is_active": true,
+      "category_name": "Headphones"
+    },
+    {
+      "count": 0,
+      "name": "Apple AirPods 4 ",
+      "description": "Apple AirPods 4 белый/Wireless Charging белый",
+      "price": 344,
+      "is_active": true,
+      "category_name": "Headphones"
+    },
+    {
+      "count": 0,
+      "name": "OEM P9 серебристый",
+      "description": "OEM P9 серебристый/Cancellation белый",
+      "price": 2342,
+      "is_active": true,
+      "category_name": "Headphones"
+    },
+    {
+      "count": 0,
+      "name": "HYDRA Minor черный",
+      "description": "HYDRA Minor черный/Lightning ",
+      "price": 123,
+      "is_active": true,
+      "category_name": "Headphones"
+    },
+    {
+      "count": 0,
+      "name": "Marshall Major IV черный",
+      "description": "Marshall Major IV черный",
+      "price": 453,
+      "is_active": true,
+      "category_name": "Headphones"
+    },
+    {
+      "count": 0,
+      "name": "Huawei Freebuds SE 2 ",
+      "description": "Huawei Freebuds SE 2 белый",
+      "price": 3632,
+      "is_active": true,
+      "category_name": "Headphones"
+    },
+  
+
+  
+    {
+      "count": 0,
+      "name": " Атомные привычки",
+      "description": "Клир Д.: Атомные привычки",
+      "price": 3627,
+      "is_active": true,
+      "category_name": "Books"
+    },
+    {
+      "count": 0,
+      "name": " Бейсен және болмыс",
+      "description": "Керімбай С., Құспан А.: Бейсен және болмыс",
+      "price": 2323,
+      "is_active": true,
+      "category_name": "Books"
+    },
+    {
+      "count": 0,
+      "name": " Спеши любить ",
+      "description": "Спаркс Ню: Спеши любить меня",
+      "is_active": true,
+      "price": 337,
+      "category_name": "Books"
+    },
+    {
+      "count": 0,
+      "name": " Теңдессіз дұғалар",
+      "description": "Айтжанқызы М.: Теңдессіз дұғалар",
+      "is_active": true,
+      "price": 91,
+      "category_name": "Books"
+    },
+    {
+      "count": 0,
+      "name": " Сүйекші",
+      "description": "Исабеков Д.: Сүйекші 2015-2016",
+      "is_active": true,
+      "price": 563,
+      "category_name": "Books"
+    },
+    {
+      "count": 0,
+      "name": " Самый богатый человек",
+      "description": "Клейсон Д.: Самый богатый человек",
+      "price": 342,
+      "is_active": true,
+      "category_name": "Books"
+    }
+  ]
+  
+  
+  
+  
