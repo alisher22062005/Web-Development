@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Software Engineer",
+        "description": "Develop and maintain software applications.",
+        "salary": 6000.0,
+        "company": 1
+    },
+    {
+        "name": "Data Analyst",
+        "description": "Analyze and interpret complex data sets to support decision-making.",
+        "salary": 5000.0,
+        "company": 1
+    },
+    {
+        "name": "Project Manager",
+        "description": "Coordinate projects, manage timelines, and ensure deliverables are met.",
+        "salary": 7000.0,
+        "company": 2
+    },
+    {
+        "name": "UX Designer",
+        "description": "Design intuitive user interfaces and improve user experiences.",
+        "salary": 5500.0,
+        "company": 2
+    },
+    {
+        "name": "Marketing Specialist",
+        "description": "Plan and execute marketing campaigns and analyze market trends.",
+        "salary": 4500.0,
+        "company": 3
+    },
+    {
+        "name": "Sales Manager",
+        "description": "Oversee the sales team and develop strategies to boost revenue.",
+        "salary": 6500.0,
+        "company": 3
+    },
+    {
+        "name": "Financial Advisor",
+        "description": "Provide financial planning and investment advice to clients.",
+        "salary": 7200.0,
+        "company": 4
+    },
+    {
+        "name": "Risk Analyst",
+        "description": "Assess and mitigate risks to ensure the organization's stability.",
+        "salary": 6800.0,
+        "company": 4
+    },
+    {
+        "name": "Nurse Practitioner",
+        "description": "Deliver primary healthcare services and patient care.",
+        "salary": 5800.0,
+        "company": 5
+    },
+    {
+        "name": "Medical Technician",
+        "description": "Perform diagnostic tests and maintain medical equipment.",
+        "salary": 4000.0,
+        "company": 5
+    }
+]

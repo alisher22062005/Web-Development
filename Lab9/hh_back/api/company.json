@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Company A",
+        "description": "Leading tech company specializing in innovative software solutions."
+    },
+    {
+        "id": 2,
+        "name": "Company B",
+        "description": "Innovative startup focusing on sustainable energy and green technology."
+    },
+    {
+        "id": 3,
+        "name": "Company C",
+        "description": "Global retail giant expanding its online presence."
+    },
+    {
+        "id": 4,
+        "name": "Company D",
+        "description": "Financial services firm offering bespoke financial solutions."
+    },
+    {
+        "id": 5,
+        "name": "Company E",
+        "description": "Healthcare company advancing telemedicine and digital health."
+    }
+]
